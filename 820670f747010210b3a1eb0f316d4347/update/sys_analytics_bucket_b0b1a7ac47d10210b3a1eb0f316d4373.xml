@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="web">6496ef61c7001010393d265c95c260b9</analytics_channel>
+        <application_name>Ble-Scanner</application_name>
+        <bucket_document_id>05016b6c47d10210b3a1eb0f316d43f3</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_table_name>sp_portal</bucket_table_name>
+        <bucket_type>service_portal</bucket_type>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>x_1304013_ble_scan.sp_portal.05016b6c47d10210b3a1eb0f316d43f3</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-29 13:29:14</sys_created_on>
+        <sys_id>b0b1a7ac47d10210b3a1eb0f316d4373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ble-Scanner</sys_name>
+        <sys_package display_value="Ble-Scanner" source="x_1304013_ble_scan">820670f747010210b3a1eb0f316d4347</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ble-Scanner">820670f747010210b3a1eb0f316d4347</sys_scope>
+        <sys_update_name>sys_analytics_bucket_b0b1a7ac47d10210b3a1eb0f316d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-29 13:29:14</sys_updated_on>
+    </sys_analytics_bucket>
+</record_update>

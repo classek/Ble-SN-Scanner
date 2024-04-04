@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c1763c3b47010210b3a1eb0f316d433a" extends="alm_asset" label="Ble-Devices" max_length="40" name="x_1304013_ble_scan_ble_devices" type="collection"/>
+</database>
